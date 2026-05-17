@@ -19,3 +19,7 @@ project/project/
 # Local user sessions/databases
 Users-data/
 *.db
+
+# Scala build metadata
+.scala-build/
+
