@@ -10,6 +10,27 @@ The project delivers a dual-interface architecture: a premium, modern desktop **
 
 ---
 
+## 🎥 Video Demonstration
+
+<div align="center">
+  <table style="border: 2px solid #34A853; border-radius: 12px; padding: 20px; background-color: #0A0C18; width: 100%;">
+    <tr>
+      <td align="center">
+        <h3 style="color: #F97316;">📺 Koki Woki ChefBot — Live Interactive Demo</h3>
+        <p style="color: #F8FAFC; font-size: 14px;">Watch the complete interactive walk-through showcasing registration, explainable AI recommendations, dynamic state cooking guides, and allergy constraint alerts!</p>
+        <br/>
+        <a href="https://drive.google.com/file/d/1jBfK3EMiFeOJVpUx__kLaBmCOX2GkDu6/view?usp=sharing" target="_blank" style="text-decoration: none;">
+          <div style="background-color: #1A73E8; color: white; padding: 12px 24px; border-radius: 25px; font-weight: bold; display: inline-block; font-size: 15px; border: 1px solid #4285F4;">
+            🟢 Click Here to Watch the Demo Video on Google Drive 🚀
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🚀 Advanced Core Engineering Features
 
 The project is packed with highly complex, hard-worked features that showcase strong software design and functional architecture:
