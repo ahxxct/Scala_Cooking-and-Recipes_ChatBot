@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Scala Cooking & Recipes ChatBot Banner" width="900" style="border-radius: 12px;">
+</p>
+
 # 👨‍🍳 Koki Woki ChefBot
 
 [![Language](https://img.shields.io/badge/Language-Scala--3.3.1-red.svg?style=for-the-badge&logo=scala)](https://www.scala-lang.org/)
