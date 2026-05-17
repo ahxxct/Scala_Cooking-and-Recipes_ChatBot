@@ -1,10 +1,10 @@
 # 👨‍🍳 Koki Woki ChefBot
 
-[![Language](https://img.shields.io/badge/Language-Scala--2.13-red.svg?style=for-the-badge&logo=scala)](https://www.scala-lang.org/)
+[![Language](https://img.shields.io/badge/Language-Scala--3.3.1-red.svg?style=for-the-badge&logo=scala)](https://www.scala-lang.org/)
 [![SBT](https://img.shields.io/badge/Build%20Tool-SBT%201.x-blue.svg?style=for-the-badge&logo=scala)](https://www.scala-sbt.org/)
 [![UI](https://img.shields.io/badge/GUI-Scala%20Swing%20%26%20FlatLaf-orange.svg?style=for-the-badge&logo=java)](https://github.com/scala/scala-swing)
 
-Koki Woki ChefBot is an advanced, production-grade conversational AI recipe assistant and recommendation engine built entirely in **Scala**. Designed with rigorous software engineering principles, the application demonstrates high-level mastery of **functional programming paradigms**, **state-machine driven dialog flows**, and **explainable rule-based AI**.
+Koki Woki ChefBot is an advanced, production-grade conversational AI recipe assistant and recommendation engine built entirely in **Scala 3**. Designed with rigorous software engineering principles, the application demonstrates high-level mastery of **functional programming paradigms**, **state-machine driven dialog flows**, and **explainable rule-based AI**.
 
 The project delivers a dual-interface architecture: a premium, modern desktop **GUI** styled with custom glassmorphism and FlatLaf dark themes, and a highly responsive **CLI** console.
 
