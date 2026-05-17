@@ -1,0 +1,21 @@
+# SBT & Scala
+target/
+project/target/
+project/project/
+
+# Bloop & BSP
+.bloop/
+.bsp/
+
+# Metals
+.metals/
+
+# VS Code & IDEs
+.vscode/
+.idea/
+*.class
+*.log
+
+# Local user sessions/databases
+Users-data/
+*.db
